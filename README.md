@@ -85,20 +85,19 @@ Ensuring infrastructure remains up-to-date and highly available to meet the dema
 In this role, I was deeply involved in managing data center infrastructure with a focus on high availability.
 ensuring the seamless operation of critical systems and services for the power exchange.
 
-🏢 Yotta Data Center, Noida  ·  Assistant Manager - Cloud Operations   Oct 2025 – Present
+🏢 Binary Global Limited . New Delhi . System Administrator Nov 2021 – June 2023
 
-  Manage and support enterprise cloud and data center infrastructure with a focus on availability, performance, security, and operational reliability.
-• Provision, configure, maintain, patch, and troubleshoot Windows Server environments.
-• Administer Linux environments including RHEL, CentOS, and Ubuntu across production infrastructure.
-• Manage Active Directory, AD DS, users, groups, Organizational Units (OUs), and Group Policy Objects (GPOs).
-• Configure and troubleshoot DNS, DHCP, IIS, SSL certificates, file services, and other enterprise infrastructure services.
-• Administer VMware environments including VM provisioning, cloning, snapshots, datastores, virtual networking, HA, DRS, FT, and vMotion.
-• Manage Linux storage and file systems including partitions, LVM, NFS, Samba, FTP, SSH, and secure access controls.
-• Monitor CPU, memory, storage, network, system logs, and infrastructure health to identify and resolve performance and availability issues.
-• Perform server hardening, security configuration, patching, vulnerability remediation, and incident troubleshooting.
-• Troubleshoot hardware, operating system, application, network, domain, and authentication-related issues.
-• Work on infrastructure monitoring using tools such as Nagios and Zabbix to support proactive issue detection and high availability.
-• Provide L2/L3 technical support and coordinate infrastructure activities through incident, change, and operational processes.
+Managing and supporting Windows-based infrastructure (Wintel systems) across on-prem and Azure Cloud environments.
+Overseeing the day-to-day operations of the physical data center, ensuring uptime and performance for all critical systems.
+Providing operational support for Windows Server environments, managing and troubleshooting issues related to servers and services.
+Collaborating with teams to optimize infrastructure performance, ensuring that cloud and on-prem systems meet business needs.
+I focused on maintaining a robust infrastructure environment, ensuring that both physical and cloud systems were highly available and supported day-to-day operations efficiently.
+24/7 monitoring of data center infrastructure, including servers, network devices, and other critical components.
+Utilizing monitoring tools to track performance, identify potential issues, and escalate incidents when necessary.
+Responding to alerts and incidents, troubleshooting, and ensuring timely resolution to maintain high availability.
+Collaborating with cross-functional teams to address issues and ensure the stability of systems.
+Maintaining comprehensive logs and reports on system health, incidents, and resolutions.
+In this role, I contributed to the smooth and uninterrupted operation of the data center by ensuring that all infrastructure components remained secure and fully functional at all times.
 
 
 🏢 Yotta Data Center, Noida  ·  Assistant Manager - Cloud Operations   Oct 2025 – Present
