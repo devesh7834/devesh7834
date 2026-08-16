@@ -10,6 +10,17 @@ Welcome to my GitHub profile! 🚀
 
 I use this profile to share **practical technical knowledge, troubleshooting guides, Linux commands, administration notes, scripts, and learning resources** that can help System Administrators, Cloud Engineers, and IT Infrastructure professionals.
 
+## Education Qualification :-
+
+☁️ Cloud Operations & Administration
+🖥️ Linux & Windows Server Administration
+🔧 Infrastructure Operations & Troubleshooting
+⚙️ Virtualization & Data Center Management
+📊 Monitoring & Performance Management
+🔐 Security & Infrastructure Hardening
+🚀 High Availability & Reliability
+📜 Automation, Scripts & Administration Tools
+
 ## 🛠️ Technical Skills
 
 ☁️ Cloud Operations & Administration
