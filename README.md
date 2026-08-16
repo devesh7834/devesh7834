@@ -12,11 +12,15 @@ I use this profile to share **practical technical knowledge, troubleshooting gui
 
 ## Education Qualification :-
 
-MCA – Master of Computer Application from IGNOU New Delhi 
-PGDCA – Post Graduate Diploma in Computer Application from IGNOU New Delhi 
+MCA – Master of Computer Application from IGNOU New Delhi.
+
+PGDCA – Post Graduate Diploma in Computer Application from IGNOU New Delhi.
+
 B.Sc. (PCM) – Batchelor of Science from APS University. 
-Intermediate - from U.P Board Prayagraj Uttar Pradesh
-High School - from U.P Board Prayagraj Uttar Pradesh
+
+Intermediate - from U.P Board Prayagraj Uttar Pradesh.
+
+High School - from U.P Board Prayagraj Uttar Pradesh.
 
 ## 🛠️ Technical Skills
 
