@@ -18,6 +18,10 @@ About Me :-
 
 📜 [View AZ-104 Certificate](./AZ-104%20Certificate.pdf)
 
+### 🟠 AWS Cloud Operations
+
+📜 [View AWS Cloud Operations Certificate](./Devesh%20Prakash%20Shukla%20AWS%20Cloud%20Ops%20Certificate.pdf)
+
 I am an RHCSA-certified IT Infrastructure and Cloud Operations professional with 8 years of experience in Data Center Management, Cloud Administration, Windows & Linux Server Administration, Virtualization, and Infrastructure Operations.
 
 Currently working as an Assistant Manager – Cloud Operations at Yotta Data Center, I work across enterprise infrastructure environments with a focus on server administration, virtualization, cloud operations, monitoring, security, troubleshooting, and high availability. I am passionate about infrastructure reliability, automation, continuous learning, and sharing practical IT knowledge to help professionals and aspiring system administrators grow their technical skills.
