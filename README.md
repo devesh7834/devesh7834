@@ -126,60 +126,19 @@ In this role, I gained valuable experience in system configuration, user support
 
 ### 🐧 Linux & System Administration
 
-* Red Hat Enterprise Linux (RHEL)
-* SUSE Linux Enterprise Server (SLES)
-* Ubuntu
-* Linux Administration & Troubleshooting
-* User & Group Management
-* File Permissions
-* LVM & Disk Management
-* Filesystems
-* Package Management
-* Systemd & Service Management
-* Log Management
-* SSH
-* NFS
-* NTP / Chrony
-* Shell Commands
+* Linux, RHEL, SLES, Ubuntu, LVM, SSH, NFS, NTP, Systemd, Shell Scripting. raid.
 
 ### 🪟 Windows Server & Microsoft
 
-* Windows Server Administration
-* Active Directory
-* Group Policy (GPO)
-* DNS & DHCP
-* PowerShell
-* Windows Server Troubleshooting
+* Windows Server, ADDS, GPO, DNS, File Server , WSUS, Patch Management, Server Hardening, DHCP , IIS.
 
 ### ☁️ Cloud & Virtualization
 
-* Microsoft Azure
-* Cloud Infrastructure
-* VMware
-* vSphere
-* vSAN
-* Virtual Machines
-* Virtualization Administration
-
-### 💾 Storage & Infrastructure
-
-* LVM
-* Disk Management
-* RAID
-* SAN
-* Storage Troubleshooting
-* Data Center Infrastructure
-* Infrastructure Operations
+* VMware, vSphere, ESXi, vCenter, vMotion, HA, DRS, Datastores, Snapshots, VMs, Networking, Troubleshooting.
 
 ### 🌐 Networking
 
-* TCP/IP
-* DNS
-* DHCP
-* NTP
-* SSH
-* NFS
-* Basic Network Troubleshooting
+* TCP/IP, DNS, DHCP, VLAN, SSL VPN,  Firewall, SSH, NFS, LAN/WAN, Troubleshooting.
 
 ### 📊 Monitoring & Operations
 
