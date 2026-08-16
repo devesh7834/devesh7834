@@ -2,12 +2,11 @@ About Me :-
 
 ### 🧑‍💻 RHCSA Certified | Cloud Admin | Linux Admin | Windows Admin |  IT Infrastructure |
 
-I am an **RHCSA Certified IT Infrastructure and Cloud Operations professional with 8 years of experience** in Data Center Management, Cloud Administration, Linux & Windows Server Administration, Virtualization, and Infrastructure Operations.
+I am an RHCSA-certified IT Infrastructure and Cloud Operations professional with 8 years of experience in Data Center Management, Cloud Administration, Windows & Linux Server Administration, Virtualization, and Infrastructure Operations.
 
-Currently working as an **Assistant Manager – Cloud Operations at Yotta Data Center**, I work across enterprise infrastructure environments with a focus on **server administration, virtualization, cloud operations, monitoring, security, troubleshooting, and high availability**.
+Currently working as an Assistant Manager – Cloud Operations at Yotta Data Center, I work across enterprise infrastructure environments with a focus on server administration, virtualization, cloud operations, monitoring, security, troubleshooting, and high availability.
 
-**I am an IT Infrastructure and Cloud Operations professional with 8 years of experience in Data Center Management, Cloud Administration, Windows & Linux Server Administration, Virtualization, and Infrastructure Operations.
-Currently working as an Assistant Manager – Cloud Operations at Yotta Data Center, I work across enterprise infrastructure environments with a focus on server administration, virtualization, cloud operations, monitoring, security, troubleshooting, and high availability.**
+I am passionate about infrastructure reliability, automation, continuous learning, and sharing practical IT knowledge to help professionals and aspiring system administrators grow their technical skills.
 
 Welcome to my GitHub profile! 🚀
 
