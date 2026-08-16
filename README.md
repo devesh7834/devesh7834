@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="./Banner.jpg" alt="Devesh Prakash Shukla - Cloud & Infrastructure Professional" width="100%">
-</p>
-
-
-
-
 About Me :-
 
 ### 🧑‍💻 RHCSA Certified | Cloud Admin | Linux Admin | Windows Admin |  IT Infrastructure |
