@@ -107,7 +107,7 @@ Windows Server Administration, supporting the organization’s server infrastruc
 Managing Google G-Suite for collaboration and productivity tools, assisting users with setup, troubleshooting, and best practices.
 Providing end-user support, troubleshooting hardware/software issues, and offering timely resolutions to ensure user productivity.
 Handling user management, including onboarding/offboarding and access management to ensure secure and efficient system usage.
-In this role, I gained valuable experience in system configuration, user support, and infrastructure management, ensuring that the organization's IT environment ran smoothly and efficiently.
+In this role, I gained valuable experience in system configuration, user support, and infrastructure management, ensuring that the organization's IT environment run smoothly and efficiently.
 
 ## 🛠️ Technical Skills :-
 
