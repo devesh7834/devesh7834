@@ -11,7 +11,6 @@ About Me :-
 
 ### 🔴 Red Hat Certified System Administrator (RHCSA)
 
-**Red Hat Certified System Administrator (RHCSA)**  
 Red Hat Enterprise Linux | Linux Administration
 
 📜 [View RHCSA Certificate](./RHCSA%20Certificate%20-%20Devesh%20Shukla.pdf)
