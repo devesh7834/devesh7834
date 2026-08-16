@@ -7,6 +7,15 @@ About Me :-
 
 ### 🧑‍💻 RHCSA Certified | Cloud Admin | Linux Admin | Windows Admin |  IT Infrastructure |
 
+## 🏆 Certifications
+
+### 🔴 Red Hat Certified System Administrator (RHCSA)
+
+**Red Hat Certified System Administrator (RHCSA)**  
+Red Hat Enterprise Linux | Linux Administration
+
+📜 [View RHCSA Certificate](./RHCSA%20Certificate%20-%20Devesh%20Shukla.pdf)
+
 I am an RHCSA-certified IT Infrastructure and Cloud Operations professional with 8 years of experience in Data Center Management, Cloud Administration, Windows & Linux Server Administration, Virtualization, and Infrastructure Operations.
 
 Currently working as an Assistant Manager – Cloud Operations at Yotta Data Center, I work across enterprise infrastructure environments with a focus on server administration, virtualization, cloud operations, monitoring, security, troubleshooting, and high availability. I am passionate about infrastructure reliability, automation, continuous learning, and sharing practical IT knowledge to help professionals and aspiring system administrators grow their technical skills.
