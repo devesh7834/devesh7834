@@ -179,10 +179,7 @@ In this role, I gained valuable experience in system configuration, user support
 
 📚 **GitHub:** https://github.com/devesh7834
 
----
-
 ### ⭐ Thanks for visiting my profile!
 
-If you find my technical guides, commands, or troubleshooting resources useful, feel free to **star ⭐ the repositories and follow my GitHub profile**.
-
 > *Learn • Practice • Troubleshoot • Share* 🚀
+-------------------------------------------------------
