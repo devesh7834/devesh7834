@@ -12,14 +12,11 @@ I use this profile to share **practical technical knowledge, troubleshooting gui
 
 ## Education Qualification :-
 
-☁️ Cloud Operations & Administration
-🖥️ Linux & Windows Server Administration
-🔧 Infrastructure Operations & Troubleshooting
-⚙️ Virtualization & Data Center Management
-📊 Monitoring & Performance Management
-🔐 Security & Infrastructure Hardening
-🚀 High Availability & Reliability
-📜 Automation, Scripts & Administration Tools
+MCA – Master of Computer Application from IGNOU New Delhi 
+PGDCA – Post Graduate Diploma in Computer Application from IGNOU New Delhi 
+B.Sc. (PCM) – Batchelor of Science from APS University. 
+Intermediate - from U.P Board Prayagraj Uttar Pradesh
+High School - from U.P Board Prayagraj Uttar Pradesh
 
 ## 🛠️ Technical Skills
 
