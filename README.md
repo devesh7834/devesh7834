@@ -43,7 +43,7 @@ High School - from U.P Board Prayagraj Uttar Pradesh.
 
 💼 Professional Experience
 
-🏢 Yotta Data Center, Noida  ·  Assistant Manager - Cloud Operations   Oct 2025 – Present
+🏢 Yotta Data Center . Noida  ·  Assistant Manager - Cloud Operations   Oct 2025 – Present
 
   Manage and support enterprise cloud and data center infrastructure with a focus on availability, performance, security, and operational reliability.
 • Provision, configure, maintain, patch, and troubleshoot Windows Server environments.
@@ -59,7 +59,7 @@ High School - from U.P Board Prayagraj Uttar Pradesh.
 • Provide L2/L3 technical support and coordinate infrastructure activities through incident, change, and operational processes.
 
 
-🏢 RailTel Corporations of India Limited (Under - Ministry of Railway Govt of India)  (Payroll - Orbit Techsol)  ·  Cloud Admin   Mar 2024 – Oct 2025
+🏢 RailTel Corporations of India Limited . Gurugram (Under - Ministry of Railway Govt of India)  (Payroll - Orbit Techsol)  ·  Cloud Admin   Mar 2024 – Oct 2025
 
   Managed and optimized Windows and Linux-based data center infrastructure.
  • Provided day-to-day administration, monitoring, troubleshooting, and operational support for cloud and virtual infrastructure.
@@ -75,21 +75,15 @@ High School - from U.P Board Prayagraj Uttar Pradesh.
  • Collaborated with cross-functional teams to improve operational processes and maintain secure, scalable, and reliable infrastructure.
 
 
-🏢 Yotta Data Center, Noida  ·  Assistant Manager - Cloud Operations   Oct 2025 – Present
+🏢 Hindustan Power Exchange Limited (HPX) . Noida ·  Officer - Information Technology   June 2023 – Mar 2024
 
-  Manage and support enterprise cloud and data center infrastructure with a focus on availability, performance, security, and operational reliability.
-• Provision, configure, maintain, patch, and troubleshoot Windows Server environments.
-• Administer Linux environments including RHEL, CentOS, and Ubuntu across production infrastructure.
-• Manage Active Directory, AD DS, users, groups, Organizational Units (OUs), and Group Policy Objects (GPOs).
-• Configure and troubleshoot DNS, DHCP, IIS, SSL certificates, file services, and other enterprise infrastructure services.
-• Administer VMware environments including VM provisioning, cloning, snapshots, datastores, virtual networking, HA, DRS, FT, and vMotion.
-• Manage Linux storage and file systems including partitions, LVM, NFS, Samba, FTP, SSH, and secure access controls.
-• Monitor CPU, memory, storage, network, system logs, and infrastructure health to identify and resolve performance and availability issues.
-• Perform server hardening, security configuration, patching, vulnerability remediation, and incident troubleshooting.
-• Troubleshoot hardware, operating system, application, network, domain, and authentication-related issues.
-• Work on infrastructure monitoring using tools such as Nagios and Zabbix to support proactive issue detection and high availability.
-• Provide L2/L3 technical support and coordinate infrastructure activities through incident, change, and operational processes.
-
+Managing Active Directory and Group Policy for efficient user and system management across the organization.
+Administering Windows and Linux servers, ensuring optimal performance, security, and uptime.
+Overseeing WSUS (Windows Server Update Services) to manage and deploy updates across servers, maintaining system security and stability.
+Implementing server hardening practices to enhance security and mitigate risks across the infrastructure.
+Ensuring infrastructure remains up-to-date and highly available to meet the demands of the 24/7 production environment.
+In this role, I was deeply involved in managing data center infrastructure with a focus on high availability.
+ensuring the seamless operation of critical systems and services for the power exchange.
 
 🏢 Yotta Data Center, Noida  ·  Assistant Manager - Cloud Operations   Oct 2025 – Present
 
