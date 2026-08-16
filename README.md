@@ -9,6 +9,8 @@ Welcome to my GitHub profile! I'm an IT Infrastructure professional interested i
 
 I use this profile to share my technical knowledge, troubleshooting guides, practical commands, scripts, and learning resources that can help system administrators and IT professionals.
 
+Current Role and Responsibilities :-
+
 💻 Working in Cloud & Infrastructure Administration
 
 🐧 Hands-on experience with Linux / RHEL / Ubuntu
