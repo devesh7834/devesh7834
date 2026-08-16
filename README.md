@@ -43,12 +43,22 @@ Intermediate - from U.P Board Prayagraj Uttar Pradesh.
 High School - from U.P Board Prayagraj Uttar Pradesh.
 
 
-## Professional Experience :-
+💼 Professional Experience
 
-Assistant Manager | Cloud Operations and Service Delivery (Yotta Data Center Noida) |  Noida (Uttar Pradesh)
+🏢 Yotta Data Center, Noida  ·  Assistant Manager - Cloud Operations   Oct 2025 – Present
 
-Duration - from Oct 2025 to till date
-
+  Manage and support enterprise cloud and data center infrastructure with a focus on availability, performance, security, and operational reliability.
+• Provision, configure, maintain, patch, and troubleshoot Windows Server environments.
+• Administer Linux environments including RHEL, CentOS, and Ubuntu across production infrastructure.
+• Manage Active Directory, AD DS, users, groups, Organizational Units (OUs), and Group Policy Objects (GPOs).
+• Configure and troubleshoot DNS, DHCP, IIS, SSL certificates, file services, and other enterprise infrastructure services.
+• Administer VMware environments including VM provisioning, cloning, snapshots, datastores, virtual networking, HA, DRS, FT, and vMotion.
+• Manage Linux storage and file systems including partitions, LVM, NFS, Samba, FTP, SSH, and secure access controls.
+• Monitor CPU, memory, storage, network, system logs, and infrastructure health to identify and resolve performance and availability issues.
+• Perform server hardening, security configuration, patching, vulnerability remediation, and incident troubleshooting.
+• Troubleshoot hardware, operating system, application, network, domain, and authentication-related issues.
+• Work on infrastructure monitoring using tools such as Nagios and Zabbix to support proactive issue detection and high availability.
+• Provide L2/L3 technical support and coordinate infrastructure activities through incident, change, and operational processes.
 Project: RailTel Corporation of India Limited – PSU (Ministry of Railways, Government of India) Data Centre Gurugram India
 
 Duration - Mar 2024 – Oct 2025
