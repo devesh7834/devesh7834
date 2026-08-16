@@ -1,67 +1,138 @@
-# devesh7834
+About Me :-
 
-🧑‍💻 About Me :-
+### 🧑‍💻 IT Infrastructure & Cloud Operations Professional | RHCSA Certified
 
-I am an RHCSA Certified IT Infrastructure and Cloud Operations professional with 8 years of experience in Data Center Management, Cloud Administration, Windows & Linux Server Administration, Virtualization, and Infrastructure Operations.
-Currently working as an Assistant Manager – Cloud Operations at Yotta Data Center, I work across enterprise infrastructure environments with a focus on server administration, virtualization, cloud operations, monitoring, security, troubleshooting, and high availability
+I am an **RHCSA Certified IT Infrastructure and Cloud Operations professional with 8 years of experience** in Data Center Management, Cloud Administration, Linux & Windows Server Administration, Virtualization, and Infrastructure Operations.
 
-Welcome to my GitHub profile! I'm an IT Infrastructure professional interested in Linux Administration, Cloud Computing, System Administration, Virtualization, Networking, and Enterprise Infrastructure.
+Currently working as an **Assistant Manager – Cloud Operations at Yotta Data Center**, I work across enterprise infrastructure environments with a focus on **server administration, virtualization, cloud operations, monitoring, security, troubleshooting, and high availability**.
 
-I use this profile to share my technical knowledge, troubleshooting guides, practical commands, scripts, and learning resources that can help system administrators and IT professionals.
+Welcome to my GitHub profile! 🚀
 
-Current Role and Responsibilities :-
+I use this profile to share **practical technical knowledge, troubleshooting guides, Linux commands, administration notes, scripts, and learning resources** that can help System Administrators, Cloud Engineers, and IT Infrastructure professionals.
 
-💻 Working in Cloud & Infrastructure Administration
+---
 
-🐧 Hands-on experience with Linux / RHEL / Ubuntu
+## 🛠️ Core Skills
 
-🪟 Experience with Windows Server & Active Directory
+### 🐧 Linux & System Administration
 
-☁️ Interested in Microsoft Azure & Cloud Infrastructure
+* Red Hat Enterprise Linux (RHEL)
+* SUSE Linux Enterprise Server (SLES)
+* Ubuntu
+* Linux Administration & Troubleshooting
+* User & Group Management
+* File Permissions
+* LVM & Disk Management
+* Filesystems
+* Package Management
+* Systemd & Service Management
+* Log Management
+* SSH
+* NFS
+* NTP / Chrony
+* Shell Commands
 
-🖥️ Working with VMware & Virtualization
+### 🪟 Windows Server & Microsoft
 
-💾 Knowledge of LVM, Storage, RAID, SAN & Infrastructure
+* Windows Server Administration
+* Active Directory
+* Group Policy (GPO)
+* DNS & DHCP
+* PowerShell
+* Windows Server Troubleshooting
 
-🌐 Interested in Networking, DNS, NTP, SSH, NFS & TCP/IP
+### ☁️ Cloud & Virtualization
 
-📊 Experience with Monitoring & Infrastructure Operations
+* Microsoft Azure
+* Cloud Infrastructure
+* VMware
+* vSphere
+* vSAN
+* Virtual Machines
+* Virtualization Administration
 
-🔐 Interested in System Security & Hardening
+### 💾 Storage & Infrastructure
 
-📚 Continuously learning and sharing practical IT knowledge
+* LVM
+* Disk Management
+* RAID
+* SAN
+* Storage Troubleshooting
+* Data Center Infrastructure
+* Infrastructure Operations
 
+### 🌐 Networking
 
-Operating Systems - Linux , Ubuntu and Windows Server
+* TCP/IP
+* DNS
+* DHCP
+* NTP
+* SSH
+* NFS
+* Basic Network Troubleshooting
 
-Linux, Red Hat Enterprise Linux (RHEL), SUSE Linux Enterprise Server (SLES), Ubuntu, Windows Server, Cloud & Virtualization, Microsoft Azure, VMware, Virtual Machines, vSphere, vSAN, Linux Administration, User & Group Management, File Permissions, LVM & Disk Management, Filesystems, SSH, NFS, NTP / Chrony, Systemd, Package Management, Service Management, Log Management, Troubleshooting, Shell Commands, Windows Administration, Windows Server, Active Directory, Group Policy, DNS, DHCP, Windows Server, Troubleshooting, PowerShell, Monitoring & Infrastructure, Nagios, Zabbix, Server Monitoring, Performance Monitoring, Log Monitoring, Infrastructure Troubleshooting, Networking, TCP/IP, DNS, NTP , SSH.
+### 📊 Monitoring & Operations
 
-🛠️ Technical Skills :-
+* Nagios
+* Zabbix
+* Server Monitoring
+* Performance Monitoring
+* Log Monitoring
+* Infrastructure Troubleshooting
+* Production Operations
+* High Availability
 
-🐧 Linux commands & administration
+### 🔐 Security
 
-🔧 Linux troubleshooting
+* Linux Security & Hardening
+* Server Hardening
+* Access Management
+* SSH Security
+* Infrastructure Security
 
-🔴 RHEL administration
+---
 
-🟢 SUSE administration
+## 📚 What I Share
 
-💾 LVM & storage management
+On this GitHub profile, I plan to publish practical resources related to:
 
-🖥️ VMware administration
+* 🐧 Linux & RHEL Administration
+* 🔧 Linux Troubleshooting
+* 📝 Linux Commands & Administration Guides
+* 💾 LVM & Storage Management
+* 🖥️ Windows Server Administration
+* 🔐 Active Directory & Group Policy
+* ☁️ Microsoft Azure Learning Notes
+* 🖥️ VMware & Virtualization
+* 📊 Monitoring & Infrastructure Operations
+* 🌐 Networking Fundamentals
+* 🔒 Security & Hardening
+* 📜 Shell Scripts & Automation
+* 🎯 IT Infrastructure Interview & Learning Resources
 
-☁️ Azure learning notes
+---
 
+## 🎯 Currently Learning
 
-🤝 Connect With Me :- 
+* ☁️ Microsoft Azure & Cloud Infrastructure
+* 🐧 Advanced Linux Administration
+* 🔐 Linux Security & Hardening
+* ⚙️ Infrastructure Automation
+* 🖥️ Enterprise Virtualization
+* 📊 Monitoring & Observability
 
-💼 LinkedIn: https://www.linkedin.com/in/devesh7834/
+---
 
-📚 GitHub: https://github.com/devesh7834
+## 🤝 Connect With Me
 
+💼 **LinkedIn:** https://www.linkedin.com/in/devesh7834/
 
+📚 **GitHub:** https://github.com/devesh7834
 
-Thanks for visiting my profile!
+---
 
+### ⭐ Thanks for visiting my profile!
 
+If you find my technical guides, commands, or troubleshooting resources useful, feel free to **star ⭐ the repositories and follow my GitHub profile**.
 
+> *Learn • Practice • Troubleshoot • Share* 🚀
