@@ -58,8 +58,5 @@ Linux, Red Hat Enterprise Linux (RHEL), SUSE Linux Enterprise Server (SLES), Ubu
 
 🌐 Network troubleshooting
 
-⚙️ Shell scripts
-
-🎯 System Administrator interview preparation
 
 
