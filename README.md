@@ -1,6 +1,6 @@
 About Me :-
 
-### 🧑‍💻 IT Infrastructure | Linux Admin | Windows Admin | RHCSA Certified | Cloud Admin |
+### 🧑‍💻 RHCSA Certified | Cloud Admin | Linux Admin | Windows Admin |  IT Infrastructure |
 
 I am an **RHCSA Certified IT Infrastructure and Cloud Operations professional with 8 years of experience** in Data Center Management, Cloud Administration, Linux & Windows Server Administration, Virtualization, and Infrastructure Operations.
 
