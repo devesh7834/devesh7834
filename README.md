@@ -26,11 +26,9 @@ I am an RHCSA-certified IT Infrastructure and Cloud Operations professional with
 
 Currently working as an Assistant Manager – Cloud Operations at Yotta Data Center, I work across enterprise infrastructure environments with a focus on server administration, virtualization, cloud operations, monitoring, security, troubleshooting, and high availability. I am passionate about infrastructure reliability, automation, continuous learning, and sharing practical IT knowledge to help professionals and aspiring system administrators grow their technical skills.
 
-Welcome to my GitHub profile! 🚀
+Welcome to my GitHub Profile!
 
-I use this profile to share **practical technical knowledge, troubleshooting guides, Linux commands, administration notes, scripts, and learning resources** that can help System Administrators, Cloud Engineers, and IT Infrastructure professionals.
-
-## Education Qualification :-
+🎓 Education Qualification :-
 
 MCA – Master of Computer Application from IGNOU New Delhi.
 
@@ -59,21 +57,71 @@ High School - from U.P Board Prayagraj Uttar Pradesh.
 • Troubleshoot hardware, operating system, application, network, domain, and authentication-related issues.
 • Work on infrastructure monitoring using tools such as Nagios and Zabbix to support proactive issue detection and high availability.
 • Provide L2/L3 technical support and coordinate infrastructure activities through incident, change, and operational processes.
-Project: RailTel Corporation of India Limited – PSU (Ministry of Railways, Government of India) Data Centre Gurugram India
 
-Duration - Mar 2024 – Oct 2025
- 
- Officer – Information Technology | Hindustan Power Exchange Limited (HPX) | Noida (Uttar Pradesh)
 
- Duration - Jun 2023 – Mar 2024 
- 
-System Administrator (DishTv Data Center) Noida Uttar Pradesh (Payroll - Binary Global Limited)
+🏢 RailTel Corporations of India Limited (Under - Ministry of Railway Govt of India)  (Payroll - Orbit Techsol)  ·  Cloud Admin   Mar 2024 – Oct 2025
 
- Duration - Nov 2021 – June 2023
+  Managed and optimized Windows and Linux-based data center infrastructure.
+ • Provided day-to-day administration, monitoring, troubleshooting, and operational support for cloud and virtual infrastructure.
+ • Worked across VMware, Hyper-V, Microsoft Azure, AWS, and Red Hat Open Stack Cloud Administrations.
+ • Supported high availability, security, performance, and reliability of enterprise infrastructure.
+ • Managed Windows Server infrastructure and services including Active Directory Domain Services (AD DS), DNS, DHCP, and WSUS.
+ • Administered Linux environments and supported server-level troubleshooting and operational activities.
+ • Managed and supported VMware virtualization infrastructure and virtual machines.
+ • Supported Microsoft Azure, Office 365, and Microsoft Entra ID administration and related infrastructure operations.
+ • Performed infrastructure monitoring using Nagios, Zabbix, and Grafana to proactively identify and troubleshoot issues.
+ • Supported network and data center operations, coordinating with cross-functional teams for incident resolution and infrastructure activities.
+ • Assisted with infrastructure security, patching, troubleshooting, and operational activities to maintain service availability.
+ • Collaborated with cross-functional teams to improve operational processes and maintain secure, scalable, and reliable infrastructure.
 
-System Executive (IMS Ghaziabad) Ghaziabad Uttar Pradesh 
 
- Duration - Oct 2028 – Nov 2021
+🏢 Yotta Data Center, Noida  ·  Assistant Manager - Cloud Operations   Oct 2025 – Present
+
+  Manage and support enterprise cloud and data center infrastructure with a focus on availability, performance, security, and operational reliability.
+• Provision, configure, maintain, patch, and troubleshoot Windows Server environments.
+• Administer Linux environments including RHEL, CentOS, and Ubuntu across production infrastructure.
+• Manage Active Directory, AD DS, users, groups, Organizational Units (OUs), and Group Policy Objects (GPOs).
+• Configure and troubleshoot DNS, DHCP, IIS, SSL certificates, file services, and other enterprise infrastructure services.
+• Administer VMware environments including VM provisioning, cloning, snapshots, datastores, virtual networking, HA, DRS, FT, and vMotion.
+• Manage Linux storage and file systems including partitions, LVM, NFS, Samba, FTP, SSH, and secure access controls.
+• Monitor CPU, memory, storage, network, system logs, and infrastructure health to identify and resolve performance and availability issues.
+• Perform server hardening, security configuration, patching, vulnerability remediation, and incident troubleshooting.
+• Troubleshoot hardware, operating system, application, network, domain, and authentication-related issues.
+• Work on infrastructure monitoring using tools such as Nagios and Zabbix to support proactive issue detection and high availability.
+• Provide L2/L3 technical support and coordinate infrastructure activities through incident, change, and operational processes.
+
+
+🏢 Yotta Data Center, Noida  ·  Assistant Manager - Cloud Operations   Oct 2025 – Present
+
+  Manage and support enterprise cloud and data center infrastructure with a focus on availability, performance, security, and operational reliability.
+• Provision, configure, maintain, patch, and troubleshoot Windows Server environments.
+• Administer Linux environments including RHEL, CentOS, and Ubuntu across production infrastructure.
+• Manage Active Directory, AD DS, users, groups, Organizational Units (OUs), and Group Policy Objects (GPOs).
+• Configure and troubleshoot DNS, DHCP, IIS, SSL certificates, file services, and other enterprise infrastructure services.
+• Administer VMware environments including VM provisioning, cloning, snapshots, datastores, virtual networking, HA, DRS, FT, and vMotion.
+• Manage Linux storage and file systems including partitions, LVM, NFS, Samba, FTP, SSH, and secure access controls.
+• Monitor CPU, memory, storage, network, system logs, and infrastructure health to identify and resolve performance and availability issues.
+• Perform server hardening, security configuration, patching, vulnerability remediation, and incident troubleshooting.
+• Troubleshoot hardware, operating system, application, network, domain, and authentication-related issues.
+• Work on infrastructure monitoring using tools such as Nagios and Zabbix to support proactive issue detection and high availability.
+• Provide L2/L3 technical support and coordinate infrastructure activities through incident, change, and operational processes.
+
+
+🏢 Yotta Data Center, Noida  ·  Assistant Manager - Cloud Operations   Oct 2025 – Present
+
+  Manage and support enterprise cloud and data center infrastructure with a focus on availability, performance, security, and operational reliability.
+• Provision, configure, maintain, patch, and troubleshoot Windows Server environments.
+• Administer Linux environments including RHEL, CentOS, and Ubuntu across production infrastructure.
+• Manage Active Directory, AD DS, users, groups, Organizational Units (OUs), and Group Policy Objects (GPOs).
+• Configure and troubleshoot DNS, DHCP, IIS, SSL certificates, file services, and other enterprise infrastructure services.
+• Administer VMware environments including VM provisioning, cloning, snapshots, datastores, virtual networking, HA, DRS, FT, and vMotion.
+• Manage Linux storage and file systems including partitions, LVM, NFS, Samba, FTP, SSH, and secure access controls.
+• Monitor CPU, memory, storage, network, system logs, and infrastructure health to identify and resolve performance and availability issues.
+• Perform server hardening, security configuration, patching, vulnerability remediation, and incident troubleshooting.
+• Troubleshoot hardware, operating system, application, network, domain, and authentication-related issues.
+• Work on infrastructure monitoring using tools such as Nagios and Zabbix to support proactive issue detection and high availability.
+• Provide L2/L3 technical support and coordinate infrastructure activities through incident, change, and operational processes.
+
 
 ## 🛠️ Technical Skills
 
