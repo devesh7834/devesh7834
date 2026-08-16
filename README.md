@@ -3,11 +3,11 @@
 </p>
 
 
-About Me :-
+👨‍💻 About Me :-
 
 ### 🧑‍💻 RHCSA Certified | Cloud Admin | Linux Admin | Windows Admin |  IT Infrastructure |
 
-## 🏆 Certifications
+## 🏆 Certifications :-
 
 ### 🔴 Red Hat Certified System Administrator (RHCSA)
 
