@@ -50,6 +50,12 @@ Linux, Red Hat Enterprise Linux (RHEL), SUSE Linux Enterprise Server (SLES), Ubu
 
 ☁️ Azure learning notes
 
+
+🤝 Connect With Me
+
+💼 LinkedIn: [Devesh Prakash Shukla]([url](https://www.linkedin.com/in/devesh7834/))
+
+📚 GitHub: You're already here!
 🪟 Windows Server administration
 
 🔐 Active Directory & Group Policy
