@@ -11,8 +11,6 @@ About Me :-
 
 ### 🔴 Red Hat Certified System Administrator (RHCSA)
 
-Red Hat Enterprise Linux | Linux Administration
-
 📜 [View RHCSA Certificate](./RHCSA%20Certificate%20-%20Devesh%20Shukla.pdf)
 
 I am an RHCSA-certified IT Infrastructure and Cloud Operations professional with 8 years of experience in Data Center Management, Cloud Administration, Windows & Linux Server Administration, Virtualization, and Infrastructure Operations.
