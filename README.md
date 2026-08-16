@@ -109,7 +109,7 @@ Providing end-user support, troubleshooting hardware/software issues, and offeri
 Handling user management, including onboarding/offboarding and access management to ensure secure and efficient system usage.
 In this role, I gained valuable experience in system configuration, user support, and infrastructure management, ensuring that the organization's IT environment ran smoothly and efficiently.
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills :-
 
 ☁️ Cloud Operations & Administration
 🖥️ Linux & Windows Server Administration
@@ -122,44 +122,27 @@ In this role, I gained valuable experience in system configuration, user support
 
 
 
-## 🛠️ Core Skills
+## 🛠️ Core Skills :-
 
 ### 🐧 Linux & System Administration
 
-* Linux, RHEL, SLES, Ubuntu, LVM, SSH, NFS, NTP, Systemd, Shell Scripting. raid.
+* Linux, RHEL, SLES, Ubuntu, LVM, SSH, NFS, NTP, Systemd, Shell Scripting. * Linux Security & Hardening, SSH Security.
 
-### 🪟 Windows Server & Microsoft
+### 🪟 Windows Server & Microsoft :-
 
-* Windows Server, ADDS, GPO, DNS, File Server , WSUS, Patch Management, Server Hardening, DHCP , IIS.
+* Windows Server, ADDS, GPO, DNS, File Server , WSUS, Patch Management, Server Hardening, DHCP , IIS, Server Hardening.
 
-### ☁️ Cloud & Virtualization
+### ☁️ Cloud & Virtualization :-
 
 * VMware, vSphere, ESXi, vCenter, vMotion, HA, DRS, Datastores, Snapshots, VMs, Networking, Troubleshooting.
 
-### 🌐 Networking
+### 🌐 Networking & Security :-
 
-* TCP/IP, DNS, DHCP, VLAN, SSL VPN,  Firewall, SSH, NFS, LAN/WAN, Troubleshooting.
+* TCP/IP, DNS, DHCP, VLAN, SSL VPN,  Firewall, SSH, NFS, LAN/WAN, Troubleshooting, Infrastructure Security.
 
-### 📊 Monitoring & Operations
+### 📊 Monitoring & Operations :-
 
-* Nagios
-* Zabbix
-* Server Monitoring
-* Performance Monitoring
-* Log Monitoring
-* Infrastructure Troubleshooting
-* Production Operations
-* High Availability
-
-### 🔐 Security
-
-* Linux Security & Hardening
-* Server Hardening
-* Access Management
-* SSH Security
-* Infrastructure Security
-
----
+* Zabbix, Grafana, Nagios, Solarwinds, ServiceNow.
 
 ## 📚 Current Technology
 
