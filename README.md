@@ -1,6 +1,6 @@
 # devesh7834
 
-Hello myself Devesh Prakash Shukla
+Devesh Prakash Shukla
 
 I am an IT Infrastructure and Cloud Operations professional with 8 years of experience in Data Center Management, Cloud Administration, Windows & Linux Server Administration, Virtualization, and Infrastructure Operations.
 Currently working as an Assistant Manager – Cloud Operations at Yotta Data Center, I work across enterprise infrastructure environments with a focus on server administration, virtualization, cloud operations, monitoring, security, troubleshooting, and high availability
