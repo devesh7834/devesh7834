@@ -171,15 +171,13 @@ In this role, I gained valuable experience in system configuration, user support
 * 🖥️ Enterprise Virtualization
 * 📊 Monitoring & Observability
 
----
-
 ## 🤝 Connect With Me
 
 💼 **LinkedIn:** https://www.linkedin.com/in/devesh7834/
 
 📚 **GitHub:** https://github.com/devesh7834
 
-### ⭐ Thanks for visiting my profile!
+                                                                            ### ⭐ Thanks for visiting my profile!
 
 > *Learn • Practice • Troubleshoot • Share* 🚀
--------------------------------------------------------
+
