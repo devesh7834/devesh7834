@@ -33,6 +33,29 @@ Intermediate - from U.P Board Prayagraj Uttar Pradesh.
 
 High School - from U.P Board Prayagraj Uttar Pradesh.
 
+
+## Professional Experience :-
+
+Assistant Manager | Cloud Operations and Service Delivery (Yotta Data Center Noida) |  Noida (Uttar Pradesh)
+
+Duration - from Oct 2025 to till date
+
+Project: RailTel Corporation of India Limited – PSU (Ministry of Railways, Government of India) Data Centre Gurugram India
+
+Duration - Mar 2024 – Oct 2025
+ 
+ Officer – Information Technology | Hindustan Power Exchange Limited (HPX) | Noida (Uttar Pradesh)
+
+ Duration - Jun 2023 – Mar 2024 
+ 
+System Administrator (DishTv Data Center) Noida Uttar Pradesh (Payroll - Binary Global Limited)
+
+ Duration - Nov 2021 – June 2023
+
+System Executive (IMS Ghaziabad) Ghaziabad Uttar Pradesh 
+
+ Duration - Oct 2028 – Nov 2021
+
 ## 🛠️ Technical Skills
 
 ☁️ Cloud Operations & Administration
