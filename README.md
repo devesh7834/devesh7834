@@ -32,3 +32,14 @@ I use this profile to share my technical knowledge, troubleshooting guides, prac
 🔐 Interested in System Security & Hardening
 
 📚 Continuously learning and sharing practical IT knowledge
+
+🛠️ Technical Skills :-
+Operating Systems
+
+Linux
+
+Red Hat Enterprise Linux (RHEL)
+
+SUSE Linux Enterprise Server (SLES), Ubuntu, Windows Server, Cloud & Virtualization, Microsoft Azure, VMware, Virtual Machines, vSphere, vSAN, Linux Administration, User & Group Management, File Permissions, LVM & Disk Management, Filesystems, SSH, NFS, NTP / Chrony, Systemd, Package Management, Service Management, Log Management, Troubleshooting, Shell Commands, Windows Administration, Windows Server, Active Directory, Group Policy, DNS, DHCP, Windows Server, Troubleshooting, PowerShell, Monitoring & Infrastructure, Nagios, Zabbix, Server Monitoring, Performance Monitoring, Log Monitoring, Infrastructure Troubleshooting, Networking, TCP/IP, DNS, NTP , SSH
+
+
