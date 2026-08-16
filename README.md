@@ -117,8 +117,6 @@ High School - from U.P Board Prayagraj Uttar Pradesh.
 
 ## 📚 Current Technology
 
-On this GitHub profile, I plan to publish practical resources related to:
-
 * 🐧 Linux & RHEL Administration
 * 🔧 Linux Troubleshooting
 * 📝 Linux Commands & Administration Guides
