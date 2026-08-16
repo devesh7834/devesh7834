@@ -103,7 +103,7 @@ I use this profile to share **practical technical knowledge, troubleshooting gui
 
 ---
 
-## 📚 What I Share
+## 📚 Current Technology
 
 On this GitHub profile, I plan to publish practical resources related to:
 
