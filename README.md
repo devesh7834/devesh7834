@@ -100,21 +100,14 @@ Maintaining comprehensive logs and reports on system health, incidents, and reso
 In this role, I contributed to the smooth and uninterrupted operation of the data center by ensuring that all infrastructure components remained secure and fully functional at all times.
 
 
-🏢 Yotta Data Center, Noida  ·  Assistant Manager - Cloud Operations   Oct 2025 – Present
+🏢 IMS Ghaziabad (University Courses Campus) . Ghaziabad  . System Executive . Oct 2018 – Nov 2021
 
-  Manage and support enterprise cloud and data center infrastructure with a focus on availability, performance, security, and operational reliability.
-• Provision, configure, maintain, patch, and troubleshoot Windows Server environments.
-• Administer Linux environments including RHEL, CentOS, and Ubuntu across production infrastructure.
-• Manage Active Directory, AD DS, users, groups, Organizational Units (OUs), and Group Policy Objects (GPOs).
-• Configure and troubleshoot DNS, DHCP, IIS, SSL certificates, file services, and other enterprise infrastructure services.
-• Administer VMware environments including VM provisioning, cloning, snapshots, datastores, virtual networking, HA, DRS, FT, and vMotion.
-• Manage Linux storage and file systems including partitions, LVM, NFS, Samba, FTP, SSH, and secure access controls.
-• Monitor CPU, memory, storage, network, system logs, and infrastructure health to identify and resolve performance and availability issues.
-• Perform server hardening, security configuration, patching, vulnerability remediation, and incident troubleshooting.
-• Troubleshoot hardware, operating system, application, network, domain, and authentication-related issues.
-• Work on infrastructure monitoring using tools such as Nagios and Zabbix to support proactive issue detection and high availability.
-• Provide L2/L3 technical support and coordinate infrastructure activities through incident, change, and operational processes.
-
+Configuring and managing desktop and laptop setups, ensuring proper installation, and troubleshooting of hardware and software for end-users.
+Windows Server Administration, supporting the organization’s server infrastructure and ensuring uptime and performance.
+Managing Google G-Suite for collaboration and productivity tools, assisting users with setup, troubleshooting, and best practices.
+Providing end-user support, troubleshooting hardware/software issues, and offering timely resolutions to ensure user productivity.
+Handling user management, including onboarding/offboarding and access management to ensure secure and efficient system usage.
+In this role, I gained valuable experience in system configuration, user support, and infrastructure management, ensuring that the organization's IT environment ran smoothly and efficiently.
 
 ## 🛠️ Technical Skills
 
