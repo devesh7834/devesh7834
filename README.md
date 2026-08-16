@@ -12,13 +12,23 @@ Welcome to my GitHub profile! I'm an IT Infrastructure professional interested i
 I use this profile to share my technical knowledge, troubleshooting guides, practical commands, scripts, and learning resources that can help system administrators and IT professionals.
 
 🧑‍💻 About Me
+
 💻 Working in Cloud & Infrastructure Administration
+
 🐧 Hands-on experience with Linux / RHEL / SUSE / Ubuntu
+
 🪟 Experience with Windows Server & Active Directory
+
 ☁️ Interested in Microsoft Azure & Cloud Infrastructure
+
 🖥️ Working with VMware & Virtualization
+
 💾 Knowledge of LVM, Storage, RAID, SAN & Infrastructure
+
 🌐 Interested in Networking, DNS, NTP, SSH, NFS & TCP/IP
+
 📊 Experience with Monitoring & Infrastructure Operations
+
 🔐 Interested in System Security & Hardening
+
 📚 Continuously learning and sharing practical IT knowledge
